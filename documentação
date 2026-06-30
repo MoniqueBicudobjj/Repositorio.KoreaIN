@@ -1,0 +1,61 @@
+DOCUMENTAÇÃO DO DIAGRAMA DE ANÁLISE – REVISTA KOREAIN
+1. Identificação do Projeto
+
+Projeto: Mapa de Navegação da Revista KoreaIN
+Ferramenta Utilizada: Draw.io (Diagrams.net)
+Tipo de Diagrama: Sitemap / Diagrama de Navegação
+Objetivo: Representar visualmente a estrutura organizacional do portal KoreaIN e suas principais categorias de conteúdo.
+
+2. Objetivo do Diagrama
+
+O diagrama foi desenvolvido para demonstrar a arquitetura de informação da Revista KoreaIN, permitindo visualizar a organização das páginas, categorias, subcategorias e áreas institucionais do site.
+
+A estrutura foi construída de forma hierárquica, partindo da Página Inicial até os conteúdos específicos de cada área.
+
+3. Estrutura Principal
+
+O sistema possui como ponto central a Página Inicial, responsável por direcionar o usuário para todas as áreas do portal através do Menu Principal.
+
+3. Estrutura Principal
+
+O sistema possui como ponto central a Página Inicial, responsável por direcionar o usuário para todas as áreas do portal através do Menu Principal.
+
+Entretenimento
+
+Área dedicada ao entretenimento asiático.
+
+Subcategorias
+K-Pop
+Cinema
+Games
+Teatro
+Shows
+TV/Streaming
+K-Dramas
+Músicas
+
+Moda & Lifestyle
+
+Categoria voltada para tendências, moda e estilo de vida.
+
+Subcategorias
+Moda
+Beleza
+Lifestyle
+Tendências
+Skincare
+Looks
+Perfumes
+Inspirações
+
+Culinária
+
+Área destinada à gastronomia.
+
+Subcategorias
+Receitas
+Restaurantes
+Bebidas
+Comidas
+Curiosidades
+
